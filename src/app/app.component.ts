@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { Router,NavigationEnd  } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -9,7 +8,4 @@ import { Router,NavigationEnd  } from '@angular/router';
 export class AppComponent {
   title = 'ng-tailwind';
 
-  constructor(private router: Router){
-    console.log(router.url);
-  }
 }
