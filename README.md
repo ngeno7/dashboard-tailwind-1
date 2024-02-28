@@ -12,4 +12,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Demo Link
 
-[Demo Link](https://tailwind-angular-v1.dev.kituo.co.ke)
+
+[Demo Link](https://tailwind-angular-v1.dev.kituo.co.ke){:target="_blank"} 
