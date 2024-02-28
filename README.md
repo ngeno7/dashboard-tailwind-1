@@ -11,6 +11,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Demo Link
-
-
-[Demo Link](https://tailwind-angular-v1.dev.kituo.co.ke){:target="_blank"} 
+Visit <a href="https://tailwind-angular-v1.dev.kituo.co.ke">Here</a> to preview the template.
